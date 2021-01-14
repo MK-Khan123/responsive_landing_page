@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;      /*I came to know about the font-family through www.figma.com*/
+}
+h1{
+    font-family: 'Bebas Neue', cursive;     /*I came to know about the font-family and font-weight through www.figma.com*/
+    font-weight: 700;
+}
+h5, p{
+    color: #363958;     /*I came to know about the color through www.figma.com*/
+}
+.fontcolor-heading{         /*I came to know about the color through www.figma.com*/
+    color: #363958; 
+}
+.top-section-background{            /*I came to know about the background-color through www.figma.com*/
+    background-color: #FFFBF0;      
+}
+.orange-color-highlight{            /*I came to know about the color through www.figma.com*/
+    color: #FABE4C;
+}
+.buy-now-button{        /*I came to know about the width, height and background through www.figma.com*/
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: 0;
+    color: white;
+}
+.endlogo-background{
+    width: 450px;
+    height: 135px;
+    border-radius: 15px;
+}
+.penguin-card{
+    border: 0;
+    border-radius: 15px;
+}
+.clothes-background{    /*I came to know about the background-color through www.figma.com*/
+    height: 100%;
+    max-width: 100%;
+    border-radius: 15px;
+    background-color: #F1F1F1;
+    margin: 4%;
+}
+.clothes-background img{
+    display: block;
+    object-fit: contain;
+    height: 80%;
+    width: 70%;
+    margin-top: 9%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{
+    text-align: center;     /*I came to know about the color through www.figma.com*/
+    background-color: #f6f6f6 ;
+}
+.logo img{
+    height: 40%;
+    max-width: 15%;
+}
